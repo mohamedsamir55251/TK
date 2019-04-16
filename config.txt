@@ -2,5 +2,5 @@ owner=567463221590753280
 prefix=1
 game=test
 stayinchannel=true
-songinstatus=false
+songinstatus=true
 token=NTY3NDg0OTI5NzY4ODE2NjQz.XLUcxQ.1U9XPtRfjtk2TmXucgK-0Q9byGo
