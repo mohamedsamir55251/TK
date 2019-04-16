@@ -1,4 +1,4 @@
-owner=567463221590753280
+owner=405760050154700800
 prefix=1
 game=💎The Killer💎
 stayinchannel=true
